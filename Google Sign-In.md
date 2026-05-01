@@ -29,3 +29,6 @@ flutter run
 2.  **Firestore:** Asegúrate de que las reglas de tu base de datos en Firebase Console permitan la lectura/escritura (puedes usar "modo prueba" para desarrollo inicial).
 
 **¿Quieres que te ayude con algo más o prefieres probar la app ahora mismo?**
+Notas antes de iniciar:
+Google Sign-In: Recuerda que para que el inicio de sesión con Google funcione en Android, deberás agregar la huella SHA-1 de tu máquina en la consola de Firebase más adelante si aún no lo has hecho. En Web, debería funcionar tras configurar el dominio autorizado.
+Firestore: Asegúrate de que las reglas de tu base de datos en Firebase Console permitan la lectura/escritura (puedes usar "modo prueba" para desarrollo inicial).
